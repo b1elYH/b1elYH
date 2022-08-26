@@ -1,4 +1,4 @@
-   Programação do Scratch e JavaScript
+  # Programação do Scratch e JavaScript
 - Eu me chamo Gabriel :+1:
 - Tenho 15 anos 👋
 - Meu email é gabriel.dasilva.padilha@escola.pr.gov.br :v:
